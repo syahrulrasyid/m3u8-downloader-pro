@@ -1,0 +1,9 @@
+
+> rest-express@1.0.0 dev
+> NODE_ENV=development tsx server/index.ts
+
+FFmpeg not found. Please install FFmpeg.
+VideoMerger not available - FFmpeg not found
+3:17:18 PM [express] serving on port 5001
+✅ SQLite database initialized successfully
+3:17:26 PM [express] GET /api/downloads 200 in 4ms :: []
